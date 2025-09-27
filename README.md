@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Handicraft-Ecommerce-Platform-ReactNative-Laravel-Backend
+A comprehensive e-commerce platform designed specifically for Sri Lankan handicraft artisans. Features multi-role authentication, product management, order processing, payment integration, event management, and review system. Built with Laravel backend and React frontend to empower artisans with direct-to-consumer sales capabilities.
+>>>>>>> 77d6f58732aca83f26679287e87d9f69f728057f
